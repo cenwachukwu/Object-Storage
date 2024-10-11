@@ -8,4 +8,6 @@ Organizations create and analyze large volumes of flat or unstructured data such
 
 This form of cloud storage is ideal for building applications that require scale and flexibility. Object storage can also be used to import existing data stores for analytics, backup, or as an archive.
 
-## Some definiations
+AWS defines their Amazon Simple Storage Service (Amazon S3) as an object storage service that offers industry-leading scalability, data availability, security, and performance.
+
+## Some Definitions
